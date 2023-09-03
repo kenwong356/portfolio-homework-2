@@ -121,9 +121,14 @@ section {
   }
   
 
-@media screen and (max-width:800px) {
+@media screen and (max-width:1500px) {
     .header h1 {
         font-size: 100px;
         color: green
     }
+
+    .header {
+        background-color: purple;
+    }
 }
+ 
