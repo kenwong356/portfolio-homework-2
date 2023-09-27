@@ -51,6 +51,7 @@ p {
     font-size: 20px;
 }
 
+
 body{
     margin-left: 0px;
     margin-right: 0px;
@@ -75,7 +76,11 @@ body{
     width: 400px;
 
 }
+.project1 { 
+    height: 400px;
+    width: 400px;
 
+}
 .content {
     width: 75%;
     display: inline-block;
